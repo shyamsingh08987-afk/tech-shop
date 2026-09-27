@@ -1,0 +1,6 @@
+{
+  "name": "TechZone Electronics",
+  "description": "Premium electronics e-commerce store with AI shopping assistant, smart comparison, and comprehensive catalog with Indian Rupee pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
